@@ -26,7 +26,7 @@ The model architecture is a simple neural network implemented using TensorFlow. 
 
 ## Usage
 Clone the repository:
-- git clone https://github.com/samriddhimakasare25/heart-attack-prediction.git
+- git clone https://github.com/samriddhimakasare25/Heart-Attack-Prediction-Model.git
 
 ## Install the required dependencies:
 - pip install -r requirements.txt
